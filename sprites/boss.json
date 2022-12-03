@@ -1,0 +1,6 @@
+{
+	"eggman-modded-00":  { "File": "egg origins.bmp", "Rect": "0,0,49,64", "Center": "25,40" },
+	"eggman-modded-01":  { "File": "egg origins.bmp", "Rect": "50,0,47,56", "Center": "21,35" },
+	"eggman-modded-02":  { "File": "egg origins.bmp", "Rect": "98,0,49,64", "Center": "22,40" },
+	"eggman-modded-03":  { "File": "egg origins.bmp", "Rect": "148,0,47,56", "Center": "24,35" }
+}
